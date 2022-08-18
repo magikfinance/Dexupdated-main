@@ -34,18 +34,18 @@ const config: MenuEntry[] = [
     label: 'More',
     icon: 'MoreIcon',
     items: [
-      {
-        label: 'Github',
-        href: '',
-      },
+      // {
+      //   label: 'Github',
+      //   href: '',
+      // },
       {
         label: 'Docs',
-        href: 'https://magikdotfinance.gitbook.io/docs/',
+        href: 'https://dogenswap.gitbook.io/docs/',
       },
-      {
-        label: 'Blog',
-        href: '',
-      },
+      // {
+      //   label: 'Blog',
+      //   href: '',
+      // },
     ],
   },
 ]
