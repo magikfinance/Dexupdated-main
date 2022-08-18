@@ -2430,10 +2430,9 @@
   dependencies:
     "@json-rpc-tools/types" "^1.5.7"
 
-"@mozartfinance/uikit@^0.2.3":
+"@mozartfinance/uikit@https://github.com/magikfinance/uikit":
   version "0.2.4"
-  resolved "https://registry.yarnpkg.com/@mozartfinance/uikit/-/uikit-0.2.4.tgz#02da4f0834d50dd02e28623e5d077f36921f5718"
-  integrity sha512-AjDOOlsSDE9U/5KdKpF/Cjm5zAka1zBxF45FPvYNa2KDdBdc11xbID0oruirSGnzjUXlslCXsl48RyzZxauVRw==
+  resolved "https://github.com/magikfinance/uikit#30e172435c28c6211705fb25ff18fec38df267be"
   dependencies:
     "@types/lodash" "^4.14.162"
     "@types/styled-system" "^5.1.10"

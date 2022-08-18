@@ -7,7 +7,7 @@
     "@binance-chain/bsc-connector": "^1.0.0",
     "@crowdin/crowdin-api-client": "^1.8.16",
     "@ethersproject/experimental": "^5.0.1",
-    "@mozartfinance/uikit": "^0.2.3",
+    "@mozartfinance/uikit": "https://github.com/magikfinance/uikit",
     "@pancakeswap-libs/sdk": "https://github.com/magikfinance/SDKMagik",
     "@popperjs/core": "^2.4.4",
     "@reach/dialog": "^0.10.3",
