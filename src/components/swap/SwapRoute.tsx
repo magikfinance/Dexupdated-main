@@ -1,4 +1,4 @@
-import { Trade } from '@pancakeswap-libs/sdk'
+import { Trade } from 'dogenswapsdk'
 import React, { Fragment, memo, useContext } from 'react'
 import { ChevronRight } from 'react-feather'
 import { Flex, Text } from '@mozartfinance/uikit'
